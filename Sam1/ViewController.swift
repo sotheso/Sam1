@@ -52,6 +52,5 @@ class ViewController: UIViewController {
         imag.image = UIImage(named: "photo1")
         view.addSubview(imag)
         imag.contentMode = .scaleAspectFit
-        
     }
 }
